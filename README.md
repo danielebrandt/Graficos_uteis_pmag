@@ -1,6 +1,6 @@
 # Graficos_uteis_pmag
 
-A ideia deste repositório é termos um pacote de funções simples (que dependam de bibliotecas básicas) para visualização de dados de paleomagnetismo.
+A funcão deste repositório será para termos um pacote de funções simples (que dependam de bibliotecas básicas como numpy e matplotlib) para visualização de dados de paleomagnetismo.
 
 Começaremos com a projeção Equal-area polar (Diretório EQAREA).
 
