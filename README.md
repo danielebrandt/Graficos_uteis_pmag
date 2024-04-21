@@ -8,5 +8,5 @@ Caso encontre algum erro, por gentileza, avise.
 
 Caso queira contribuir ou melhorar, será muito bem-vindo.
 
-Baixe o arquivo Eqarea_utils_2024.py em seu computador e utilize as funções conforme o exemplo mostrado notebook (Exemplo_EqualArea_Equatorial.ipynb).
+Baixe o arquivo o diretório Eqarea em seu computador e utilize as funções conforme o exemplo mostrado notebook (Uso_EqualArea_Polar.ipynb).
 
