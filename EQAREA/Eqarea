@@ -1,1 +1,7 @@
 Diretório para criarmos projeções estereográficas de áreas iguais.
+
+As funcões estão no arquivo DB_Eqarea_utils_2024.py (copie no diretório que você vai utilizar ou coloque no seu PYTHONPATH).
+
+O arquivo Uso_EqualArea_Polar.ipynb explica os cálculos e exemplifica o uso.
+
+Copie todo o diretório EQAREA para começar.
